@@ -1,7 +1,22 @@
 p {
   text-align: left;
   color: white;
+}
 
 body {
   background-color: black;
+  color: white;
+}
+
+a,
+a:link,
+a:visited {
+  color: #22F;
+  text-decoration: underline;
+}
+
+a:hover,
+a:active {
+  color: #55F;
+  text-decoration: none;
 }
